@@ -48,7 +48,7 @@ I'm currently looking for **Software Engineer**, **Full-Stack Developer**, and *
   </a>
 
   <a href="mailto:ubaidurrehman2048.com">
-    <img src="https://img.shields.io/badge/Connect-Contact_Me-success?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact_Me-success?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
