@@ -51,6 +51,3 @@ I'm currently looking for **Software Engineer**, **Full-Stack Developer**, and *
     <img src="https://img.shields.io/badge/Contact_Me-success?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
