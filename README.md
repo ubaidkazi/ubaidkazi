@@ -1,4 +1,4 @@
-# Hi, I'm Ubaid👋
+# 👋 Hi, I'm Ubaid
 
 **Recent Computer Information Technology graduate** from **Minnesota State University, Mankato** with a passion for building full-stack web applications and exploring AI-driven software solutions. I enjoy taking ideas from concept to deployment and learning new technologies by building real projects.
 
@@ -43,11 +43,6 @@ I'm currently looking for **Software Engineer**, **Full-Stack Developer**, and *
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iamubaidurrehman/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:ubaidurrehman2048.com">
-    <img src="https://img.shields.io/badge/Contact_Me-success?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/iamubaidurrehman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ubaidurrehman2048@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-success?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
